@@ -1,0 +1,9 @@
+__pycache__
+.DS_Store
+odirenv
+images
+app/streamlit_app_bak.py.txt
+slides/slide_09_debug.py
+secrets.toml
+app/demo.py
+odir_model_weights_Xception_2022_10_21_multiclass_fine_tuning.h5
